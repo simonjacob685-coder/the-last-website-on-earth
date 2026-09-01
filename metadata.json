@@ -1,0 +1,6 @@
+{
+  "name": "The Last Website on Earth",
+  "description": "A cinematic interactive sci-fi digital archive from the year 2098, preserving the final three recoverable memories of humanity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
